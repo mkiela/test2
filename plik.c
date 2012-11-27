@@ -3,7 +3,7 @@ a
 tutaj zmienilem
 asda
 sdas
-da
+tutaj
 sd
 as
 das
