@@ -1,6 +1,6 @@
 asdasd
 a
-dasdas
+tutaj zmienilem
 asda
 sdas
 da
