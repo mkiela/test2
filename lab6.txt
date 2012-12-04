@@ -1,14 +1,14 @@
 Zad.1
 
-grep [0-9A-Za-z] lab1.txt
+grep . lab1.txt
 
 Zad.2
 
-grep [0-9] lab*
+grep ^[0-9] lab*
 
 Zad.3
 
-?
+grep ........r plik.txt
 
 Zad.4
 
