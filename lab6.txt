@@ -1,0 +1,19 @@
+Zad.1
+
+grep [0-9A-Za-z] lab1.txt
+
+Zad.2
+
+grep [0-9] lab*
+
+Zad.3
+
+?
+
+Zad.4
+
+grep -c 'bash' passwd
+
+Zad.5
+
+grep [IVXLCDM] lab1.txt
